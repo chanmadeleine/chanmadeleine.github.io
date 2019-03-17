@@ -1,2 +1,2 @@
-# chanmadeleine.github.io
-Personal Github page
+:sparkles: :tada:
+:rocket: :metal: :octocat:
